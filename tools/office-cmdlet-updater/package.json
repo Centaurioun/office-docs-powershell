@@ -25,7 +25,7 @@
   "dependencies": {
     "@sendgrid/mail": "^6.3.1",
     "await-of": "^1.1.2",
-    "awilix": "^3.0.9",
+    "awilix": "^8.0.0",
     "better-queue": "^3.8.10",
     "chalk": "^2.4.2",
     "commander": "^2.19.0",
